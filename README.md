@@ -59,10 +59,3 @@
 | KARPOV.COURSES Специализация Симулятор SQL | 2026 |
 | Кейс-чемпионата РСХБ.Цифра (Финалист) | 2026 | 
 
----
-
-## Закрепленные репозитории
-
-[![Ecommerce Analytics](https://img.shields.io/badge/-Ecommerce%20Analytics-24292F?logo=github&logoColor=white)](https://github.com/KirillovDmitrii/ecommerce-analytics)
-
-[![Market Analysis Project](https://img.shields.io/badge/-Market%20Analysis%20Project-24292F?logo=github&logoColor=white)](https://github.com/KirillovDmitrii/analysis_market_project)
